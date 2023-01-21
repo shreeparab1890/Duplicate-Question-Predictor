@@ -2,7 +2,9 @@
 The ipython notebook is working to build a model which will detect duplicate questions if two questions pair are given.  
 The dataset used has been taken from: <a href="https://www.kaggle.com/competitions/quora-question-pairs">Kaggle: Quora Question Pairs</a>  
 You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnaparab/find-duplicate-questions-pair">kaggle</a>  
-You can check the live demo: <a href="https://huggingface.co/spaces/Shrikrishna/Duplicate-Question-Predictor">Duplicate Question Detector</a>
+
+### Check the app:
+[![Open in Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Shrikrishna/Duplicate-Question-Predictor)
 
 ## Packeges Used:
  ![Python][python] ![scikit-learn][sklearn-image] ![Pandas][Pandas-image] ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter Notebook][ipython-image] ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
