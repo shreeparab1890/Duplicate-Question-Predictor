@@ -3,6 +3,10 @@ The ipython notebook is working to build a model which will detect duplicate que
 The dataset used has been taken from: <a href="https://www.kaggle.com/competitions/quora-question-pairs">Kaggle: Quora Question Pairs</a>  
 You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnaparab/find-duplicate-questions-pair">kaggle</a>  
 
+## Deployment:
+Streamlit is used to build a front-end of the web application for Duplicate Question Detector and is deployed on huggingface.co.
+![app](app.png)
+
 ### Check the app:
 [![Open in Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Shrikrishna/Duplicate-Question-Predictor)
 
